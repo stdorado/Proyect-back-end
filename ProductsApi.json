@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "casa de 80x80",
+    "thumbnail": "imagen2.jpg",
+    "descripcion": "Descripción del Producto 2",
+    "code": "|||||||||||||||||",
+    "stock": 5,
+    "price": 29.99,
+    "status": true,
+    "category": "CASA"
+  },
+  {
+    "id": 2,
+    "title": "Producto 2",
+    "thumbnail": "imagen2.jpg",
+    "descripcion": "Descripción del Producto 2",
+    "code": "|||||||||||||||||",
+    "stock": 5,
+    "price": 29.99,
+    "status": true,
+    "category": "Categoría 2"
+  },
+  {
+    "id": 3,
+    "title": "Producto 3",
+    "thumbnail": "imagen3.jpg",
+    "descripcion": "Descripción del Producto 3",
+    "code": "||||||||||||||||||",
+    "stock": 15,
+    "price": 14.99,
+    "status": true,
+    "category": "Categoría 1"
+  },
+  {
+    "id": 4,
+    "title": "Producto 4",
+    "thumbnail": "imagen4.jpg",
+    "descripcion": "Descripción del Producto 4",
+    "code": "|||||||||||||||||||",
+    "stock": 8,
+    "price": 24.99,
+    "status": true,
+    "category": "Categoría 2"
+  },
+  {
+    "id": 5,
+    "title": "Producto 5",
+    "thumbnail": "imagen3.jpg",
+    "descripcion": "Descripción del Producto 3",
+    "code": "||||||||||||||||||",
+    "stock": 15,
+    "price": 14.99,
+    "status": true,
+    "category": "Categoría 1"
+  },
+  {
+    "id": 6,
+    "title": "Producto 6",
+    "thumbnail": "imagen3.jpg",
+    "descripcion": "Descripción del Producto 3",
+    "code": "||||||||||||||||||",
+    "stock": 15,
+    "price": 14.99,
+    "status": true,
+    "category": "Categoría 1"
+  },
+  {
+    "id": 7,
+    "title": "casa de 80x80",
+    "thumbnail": "imagen2.jpg",
+    "descripcion": "Descripción del Producto 2",
+    "code": "|||||||||||||||||",
+    "stock": 5,
+    "price": 29.99,
+    "status": true,
+    "category": "CASA"
+  },
+  {
+    "title": "casa de 80x80",
+    "thumbnail": "imagen2.jpg",
+    "descripcion": "Descripción del Producto 2",
+    "code": "||||||||||||||||| |||| ",
+    "stock": 5,
+    "price": 29.99,
+    "status": true,
+    "category": "departamento",
+    "id": 8
+  }
+]
